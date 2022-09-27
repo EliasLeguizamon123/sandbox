@@ -1,9 +1,9 @@
 {
-  "name": "app",
-  "productName": "nameMyApp",
+  "name": "sandbox",
+  "productName": "sandbox",
   "private": true,
   "version": "2.0.0",
-  "description": "Vite React Electron boilerplate.",
+  "description": "this is a little sandbox for all electron apps",
   "author": "Elias Leguizamon <frontend@magneticash.com>",
   "license": "MIT",
   "main": "dist/electron/main/index.js",
@@ -49,6 +49,9 @@
     "@chakra-ui/react": "^2.2.9",
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
-    "framer-motion": "^7.2.1"
+    "formik": "^2.2.9",
+    "framer-motion": "^7.2.1",
+    "react-router-dom": "^6.4.1",
+    "yup": "^0.32.11"
   }
 }
